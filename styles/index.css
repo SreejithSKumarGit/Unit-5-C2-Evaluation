@@ -1,0 +1,27 @@
+#main_container
+{
+    text-align: center;
+    
+    width: 45%;
+    margin: auto;
+    padding: 20px;
+}
+#main_container img
+{
+    width: 100px;
+}
+input
+{
+    width: 250px;
+    height: 25px;
+    margin: auto;
+    
+}
+#inputDiv
+{
+  padding: 5% 30% ;  
+}
+h1
+{
+    text-align: center;
+}
